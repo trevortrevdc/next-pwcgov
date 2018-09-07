@@ -12,10 +12,10 @@ const Header = ({ siteTitle }) => (
       style={{
         margin: '0 auto',
         maxWidth: 960,
-        padding: '1.0875rem 0 0 0',
+        padding: '1.45rem 0 0 0',
       }}
     >
-      <img src={logo} alt="Logo" height="50" />
+      <img src={logo} alt="Logo" height="30" />
     </div>
   </div>
 )
